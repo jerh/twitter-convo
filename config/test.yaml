@@ -1,0 +1,10 @@
+db_config:
+  adapter: sqlite3
+  database: test.sqlite3
+
+log_file: test.log
+
+seed:
+  - HeadsNo2
+  - javabeans
+  - kaede_jun
